@@ -1,6 +1,13 @@
 # AccountZero
 **`Junior Fullstack Developer`**
 
+- 🔭 I will be working on my Portfolio 
+- 🌱 I’m currently learning Rails and Docker
+- 💬 Ask me about anything, i try to help
+- 📫 How to reach me: ...
+- 😄 Pronouns: Look at my profile :)
+- ⚡ Fun fact: I actually play with rubics cube, i have a collection of different cubes
+
 ## About me
 I am a developer with a passion for exploring various programming languages. After taking a brief hiatus from programming, I am excited to return and reignite my love for coding
 
@@ -34,18 +41,7 @@ Here i have created a small list of stuff
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="RubyMine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
-<!--
-**AccountZero/AccountZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Stats
+![AccountZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=accountzero&theme=vue-dark&show_icons=true)

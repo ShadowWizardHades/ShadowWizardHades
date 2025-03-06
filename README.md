@@ -1,4 +1,4 @@
-# AccountZero
+# ShadowWizardHades
 **`Junior Fullstack Developer`**
 
 - 🔭 I will be working on my Portfolio 
@@ -48,4 +48,4 @@ Here i have created a small list of stuff
 <br />
 
 ## Github Stats
-![AccountZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=accountzero&theme=vue-dark&show_icons=true)
+![ShadowWizardHades' GitHub stats](https://github-readme-stats.vercel.app/api?username=accountzero&theme=vue-dark&show_icons=true)

@@ -48,4 +48,4 @@ Here i have created a small list of stuff
 <br />
 
 ## Github Stats
-![ShadowWizardHades' GitHub stats](https://github-readme-stats.vercel.app/api?username=accountzero&theme=vue-dark&show_icons=true)
+![ShadowWizardHades' GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowwizardhades&theme=vue-dark&show_icons=true)

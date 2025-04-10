@@ -1,19 +1,20 @@
 # ShadowWizardHades
 **`Junior Fullstack Developer`**
 
-- 🔭 I will be working on my Portfolio 
+- 🔭 I will be working on various things, depending on what I want to do
 - 🌱 I’m currently learning Rails and Docker
 - 💬 Ask me about Rails or Java
 - 😄 Pronouns: Look at my profile :)
-- ⚡ Fun fact: I actually play with rubics cube, i have a collection of different cubes
+- ⚡ Fun fact: I actually play with rubic cubes, i have a collection of different cubes, maybe too much
 
 ## About me
-I am a developer with a passion for exploring various programming languages. After taking a brief hiatus from programming, I am excited to return and reignite my love for coding
+After taking a brief hiatus from programming, I am excited to return and reignite my love for coding. It has been a while indeed.
 
 ## Anouncements
-I will start working (if i have time) on following projects:
+I am working on:
 - My Portfolio
 - My Minecraft Plugin Morecraft
+- Something new ?
 
 ## Languages
 Here i have created a small list of stuff
